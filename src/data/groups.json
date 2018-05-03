@@ -1,0 +1,93 @@
+[
+  {
+    "name": "校內訂餐系統 APP",
+    "members": ["黃楊", "陳志榮", "杜民雄"],
+    "teacher": "張怡秋",
+    "numberOfPages": 16,
+    "commits": []
+  },
+  {
+    "name": "LIMA-宜居分析地圖",
+    "members": ["陳志嘉", "黃柏翔", "賴柔嘉"],
+    "teacher": "胡雅涵",
+    "numberOfPages": 10,
+    "commits": []
+  },
+  {
+    "name": "StockBot 理財機器人",
+    "members": ["丁澤宇", "楊傑詠", "蔡易珊"],
+    "teacher": "羅美玲",
+    "numberOfPages": 18,
+    "commits": []
+  },
+  {
+    "name": "FASET-陪你過四季",
+    "members": ["丘旆瑄", "陳怡蓁", "黃裕斌", "林怡廷"],
+    "teacher": "李珮如",
+    "numberOfPages": 19,
+    "commits": []
+  },
+  {
+    "name": "金融法規關鍵分析軟體機器人",
+    "members": ["陳品劭", "郭姿君", "郭瑜真", "曾瀞瑩"],
+    "teacher": "黃士銘",
+    "numberOfPages": 15,
+    "commits": []
+  },
+  {
+    "name": "竹好機器人",
+    "members": ["陳奕凱", "蕭溥辰", "李政杰", "朱庭緯"],
+    "teacher": "黃士銘",
+    "numberOfPages": 15,
+    "commits": []
+  },
+  {
+    "name": "Classroom+",
+    "members": ["蔡承晉", "林鎰鋒", "傅仰紹", "林家葦"],
+    "teacher": "莊詠婷",
+    "numberOfPages": 13,
+    "commits": []
+  },
+  {
+    "name": "S.C PHOTO",
+    "members": ["歐陽嘉林", "謝昇延", "鐘茗薇", "陳昱哲"],
+    "teacher": "許巍嚴",
+    "numberOfPages": 13,
+    "commits": []
+  },
+  {
+    "name": "Juicy Skin-輕鬆膚質檢測",
+    "members": ["陳霆宇", "呂雅琴", "蕭宸欣", "李佳霖"],
+    "teacher": "許巍嚴",
+    "numberOfPages": 19,
+    "commits": []
+  },
+  {
+    "name": "CCU Guide 中正擺渡人",
+    "members": ["林柏任", "陳駿賢", "陳亞震", "林育陞"],
+    "teacher": "阮金聲",
+    "numberOfPages": 18,
+    "commits": []
+  },
+  {
+    "name": "Mavigation 你的生活領航",
+    "members": ["陳昱偉", "馬培馨", "劉日弘", "余士綸"],
+    "teacher": "阮金聲",
+    "numberOfPages": 29,
+    "commits": []
+  },
+  {
+    "name": "天賦網",
+    "members": ["劉美慧", "吳嘉文", "林重勻", "高振翔"],
+    "teacher": "胡雅涵",
+    "numberOfPages": 16,
+    "commits": []
+  },
+  {
+    "name": "食物影像辨識",
+    "members": ["陳永瀚", "張喬鈦", "李建亨", "謝慧靈"],
+    "teacher": "葉耕榕",
+    "numberOfPages": 17,
+    "commits": []
+  }
+]

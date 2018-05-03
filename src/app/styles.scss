@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: 微軟正黑體 !important;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input {
+  font-family: 微軟正黑體 !important;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+::selection {
+  background-color: #91dc5a;
+  color: white;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@keyframes toOpacity100 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

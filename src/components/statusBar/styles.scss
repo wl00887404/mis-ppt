@@ -1,0 +1,18 @@
+:local(.container) {
+  position: fixed;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.87);
+  bottom: 0;
+  z-index: 1000;
+  font-size: 1.2em;
+  @media (max-width: 760px) {
+    font-size: 1em;
+  }
+  color: white;
+  transition: transform 0.1s;
+  transition-timing-function: linear;
+  :local(.statusBar) {
+    padding: 0.5em;
+    text-align: center;
+  }
+}

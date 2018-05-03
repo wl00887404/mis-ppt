@@ -1,0 +1,33 @@
+:local(.container) {
+  padding: 2em;
+
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  div {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  a {
+    cursor: pointer;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 3em;
+    height: 3em;
+  }
+  textarea {
+    margin-top: 1em;
+    border: 1px solid;
+    padding: 2em;
+    flex-grow: 1;
+    letter-spacing: 0.1em;
+    line-height: 2;
+  }
+  button {
+    margin-top: 1em;
+    width: 100%;
+  }
+}
